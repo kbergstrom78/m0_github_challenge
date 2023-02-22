@@ -1,3 +1,3 @@
 # GitHub Steps
 
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
+To create a connection between a local and remote repository, you would push the repository up into GitHub by first creating a repository in GitHub and then pushing the local repository to the cloud by using the command "git push"
